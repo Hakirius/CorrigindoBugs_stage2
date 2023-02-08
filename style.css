@@ -90,7 +90,7 @@ main {
   
   button {
     color: white;
-
+    text-transform: uppercase;
     font-family: "Open Sans", sans-serif;
   
     background: #69B99D;
